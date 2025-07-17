@@ -1,0 +1,15 @@
+.A{
+    margin-left: 65px;
+    overflow: hidden;
+}
+.B{
+    overflow: hidden;
+    margin-left: 100px;
+}
+.C,.D{
+    overflow: hidden;
+}
+.sample1{
+    background-color: antiquewhite;
+    text-align: center;
+}

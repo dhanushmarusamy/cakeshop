@@ -1,0 +1,125 @@
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    right: 0%;
+    scroll-behavior: smooth;
+    /* overflow: hidden; */
+}
+.A{
+    margin-left: 65px;
+    overflow: hidden;
+}
+.B{
+    overflow: hidden;
+    margin-left: 100px;
+}
+.C,.D{
+    overflow: hidden;
+}
+.sample1{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.F{
+    background-image: url(C:/Users/mdhan/healthyfoods/src/images/I8.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.E{
+    text-align: center;
+    color: bisque;
+}
+.a1{
+    width: 18rem;
+}
+.G{
+    background-image: url(C:/Users/mdhan/healthyfoods/src/images/p5.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.g1{
+    padding-top: 25px;
+    text-align: center;
+    color: rgb(236, 122, 160);
+}
+.g2{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.pic:hover{
+    width:300px;
+    height: 250px;
+}
+.y h1{
+    position: absolute;
+    color: whitesmoke;
+    
+    /* padding-right: 100px; */
+}
+.a{
+    position: relative;
+}
+.g3{
+    padding: 15px;
+    margin-left: 5%;
+    margin-bottom: 55px;
+    background-color:rgb(237, 67, 67);
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: azure;
+}
+.H{
+    text-align: center;
+    padding-top: 40px;
+    color: palevioletred;
+}
+.H1{
+    padding-top: 25px;
+    font-size: 20px;
+    padding-left: 10%;
+
+}
+.H2{
+    text-align: center;
+}
+
+
+
+
+.i{
+    overflow: hidden;
+background-color: antiquewhite;
+}
+.I{
+    padding-top: 150px;
+}
+.i1{
+    padding-top: 55px;
+}
+
+.text-container{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top:50%;
+    color:chocolate;
+    /* left: 2%; */
+    right: 52%;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

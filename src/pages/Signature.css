@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    right: 0%;
+    scroll-behavior: smooth;
+    /* overflow: hidden; */
+}
+.A{
+    margin-left: 65px;
+    overflow: hidden;
+}
+.B{
+    overflow: hidden;
+    margin-left: 100px;
+}
+.j{
+    color: palevioletred;
+    padding-top: 25px;
+    align-items: center;
+    text-align: center;
+}
+.i{
+    overflow: hidden;
+background-color: antiquewhite;
+}
+.I{
+    padding-top: 150px;
+}
+.i1{
+    padding-top: 55px;
+}
+.S{
+padding-left: 5px;
+padding-top: 10px;
+}
+.S button{
+    padding: 8px;
+    background-color: rgb(241, 65, 65);
+    border-color: white;
+    color: whitesmoke;
+    border-radius: 8px;
+}
