@@ -44,7 +44,8 @@
     width: 18rem;
 }
 .G{
-    background-image: url(C:/Users/mdhan/healthyfoods/src/images/p5.jpg);
+    /* background-image: url(C:/Users/mdhan/healthyfoods/src/images/p5.jpg); */
+    background-image: url("../images/p5.jpg");
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
