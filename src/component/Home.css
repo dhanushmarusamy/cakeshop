@@ -29,7 +29,8 @@
 }
 
 .F{
-    background-image: url(C:/Users/mdhan/healthyfoods/src/images/I8.png);
+   /* // background-image: url(); */
+   background-image: url("../images/i8.png");
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
