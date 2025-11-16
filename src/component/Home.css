@@ -30,7 +30,7 @@
 
 .F{
    /* // background-image: url(); */
-   background-image: url("../images/i8.png");
+   background-image: url('../images/i8.png');
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +45,7 @@
 }
 .G{
     /* background-image: url(C:/Users/mdhan/healthyfoods/src/images/p5.jpg); */
-    background-image: url("../images/p5.jpg");
+    background-image: url('../images/p5.jpg');
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
